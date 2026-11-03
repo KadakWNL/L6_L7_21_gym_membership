@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+
+# Generated / local files
+*.xlsx
+_lab6_raw.txt
+_lab7_raw.txt
